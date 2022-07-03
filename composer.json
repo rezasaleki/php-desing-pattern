@@ -1,0 +1,13 @@
+{
+    "name": "rezasaleki/php.8.1",
+    "authors": [
+        {
+            "name": "rezasaleki",
+            "email": "rezasaleki.09@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\" : ["src/", "src/SOLID"]}
+    }
+}
